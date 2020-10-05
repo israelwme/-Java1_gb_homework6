@@ -8,4 +8,5 @@ public abstract class Animal {
     public void showResult(Object obj, String str, boolean result) {
         System.out.println(obj.getClass().getName() + " " + str + " : " + result);
     }
+
 }
