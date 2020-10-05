@@ -22,4 +22,5 @@ public class Main {
         cat.jump(2.0);
 
     }
+
 }

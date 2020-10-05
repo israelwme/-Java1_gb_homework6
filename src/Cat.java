@@ -9,5 +9,4 @@ public class Cat extends Animal {
         boolean result = height <= 2;
         showResult(this,"jump",result);
     }
-
 }

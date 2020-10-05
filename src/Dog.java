@@ -19,4 +19,5 @@ public class Dog extends Animal {
         boolean result = height <= 0.5;
         showResult(this,"jump",result);
     }
+
 }
